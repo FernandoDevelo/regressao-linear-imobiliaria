@@ -6,6 +6,8 @@ Projeto de Machine Learning desenvolvido com foco em regressão linear para prev
 
 O objetivo deste projeto foi aplicar conceitos fundamentais de Ciência de Dados e Machine Learning, passando pelas etapas de análise exploratória, preparação dos dados, treinamento do modelo e avaliação dos resultados.
 
+![Previsão de casa de imobiliária](imagens/casa_imob.png)
+
 ---
 
 ## 🚀 Tecnologias utilizadas
@@ -69,6 +71,8 @@ A análise gráfica dos resíduos mostrou:
 
 Esses resultados sugerem que o modelo possui boa capacidade preditiva, embora ainda exista espaço para melhorias futuras.
 
+![análise de residuos](imagens/dispersao_imob.png)
+
 ---
 
 ## 🧠 Principais aprendizados
@@ -104,14 +108,6 @@ Clone o repositório:
 ```bash
 git clone https://github.com/seu-usuario/seu-repositorio.git
 ```
-
-Instale as dependências:
-
-```bash
-pip install -r requirements.txt
-```
-
-Execute o notebook ou script principal.
 
 ---
 
